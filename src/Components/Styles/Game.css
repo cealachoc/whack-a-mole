@@ -1,0 +1,23 @@
+.game {
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.score {
+  background: grey;
+  padding: 0 3rem;
+  line-height: 1;
+  border-radius: 1rem;
+}
+
+.start {
+  background: green;
+  color: white;
+  margin-top: 2rem;
+  border-radius: .5rem;
+  height: 3rem;
+  width: 8rem;
+}
